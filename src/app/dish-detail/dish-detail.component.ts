@@ -9,7 +9,7 @@ import { Params, ActivatedRoute } from '@angular/router';
 import { Location } from '@angular/common';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
-import { Comment } from '../shared/Comment';
+import { Comment } from '../shared/comment';
 import 'rxjs/add/operator/switchMap';
 
 
